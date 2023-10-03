@@ -1,0 +1,9 @@
+{
+    "source_directory": "source",
+    "destination_directory": "organized",
+    "txt": "Text",
+    "pdf": "Documents",
+    "jpg": "Images",
+    "mp4": "Videos",
+    "mp3": "Music"
+}
